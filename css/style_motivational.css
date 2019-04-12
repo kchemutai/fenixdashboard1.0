@@ -144,10 +144,12 @@ font-size: 1.1rem;
 }
 blockquote{
   margin-top: 4rem;
+  
 }
 blockquote .svg-inline--fa{
   color: #1ebba3;
   margin: 1rem;
+  font-size: 3rem;
 }
 .clients-hr{
   border-top: .05rem solid #1ebba3;
